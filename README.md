@@ -6,4 +6,6 @@ Test repository to practice with Coursera Data Science Specialization from John 
 Link to a R project on RStudio
 
 Include:
-* R practice exercise
+* R practice exercise for R programming course
+* R practice exercise for Getting and Cleaning data course
+* Swirl practice and notes
